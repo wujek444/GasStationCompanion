@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GasStationCompanion</string>
+    <string name="title_activity_gas_station_map">Map</string>
+</resources>
